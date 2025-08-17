@@ -1,0 +1,5 @@
+[1;31mFAILED!!![0m
+Line # 206 Error in PAPI_add_event (PAPI_L3_TC): Invalid argument
+Some tests require special hardware, permissions, OS, compilers
+or library versions. PAPI may still function perfectly on your 
+system without the particular feature being tested here.       
